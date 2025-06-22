@@ -1,10 +1,10 @@
-package com.limit.limits.service;
+package com.limits.spring_cloud_config_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LimitsServiceApplicationTests {
+class SpringCloudConfigServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
