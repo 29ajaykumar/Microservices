@@ -1,4 +1,4 @@
-package com.currency.exchange.currency_exchange_service;
+package com.currency.exchange.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
