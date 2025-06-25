@@ -62,11 +62,11 @@ public class CurrencyExchange {
 		this.conversionMultiple = conversionMultiple;
 	}
 
-	public String getEnviroment() {
+	public String getEnvironment() {
 		return environment;
 	}
 
-	public void setEnviroment(String enviroment) {
+	public void setEnvironment(String enviroment) {
 		this.environment = enviroment;
 	}
 

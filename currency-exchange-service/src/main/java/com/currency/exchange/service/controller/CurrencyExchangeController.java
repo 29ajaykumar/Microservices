@@ -27,7 +27,7 @@ public class CurrencyExchangeController {
 			throw new RuntimeException("Unable to find data for "+from+" and "+to);
 		}
 		String port = environment.getProperty("local.server.port");
-		currencyExchange.setEnviroment(port);
+		currencyExchange.setEnvironment(port);
 		return currencyExchange;
 	}
 }
